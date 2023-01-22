@@ -1,0 +1,20 @@
+
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¹»ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ°­Œıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(û‹å
+H
+java:S2175"2A "ArrayList<Kandidat>" cannot contain a "String".(±ôû”
+H
+java:S2175"2A "ArrayList<Kandidat>" cannot contain a "String".(±ôû”
+E
+java:S2175"/A "ArrayList<Kandidat>" cannot contain a "int".(±ôû”
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•¦ğ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÇËç~
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Àüˆ®
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(˜ôà*
+Q	java:S125+"<This block of commented-out lines of code should be removed.(Áúô
+V	java:S125/"<This block of commented-out lines of code should be removed.(è’âæúÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.zip.ZipFile'.(ˆ«„Ã
